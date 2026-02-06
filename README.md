@@ -1,4 +1,4 @@
-# Proyecto_Final_Fundamentos_CienciaDeDatos
+# Proyecto_Final_Potencial_Cu_Esados_Unidos
 Integrantes del equipo: Juan Morales, Sebastian Ruiz, Daniel Pareja
 
 ## CONTEXTO DE NEGOCIO
